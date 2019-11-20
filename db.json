@@ -8,7 +8,7 @@
             "SiteAddress": "10-14 Market Ln, Rouse Hill NSW 2155, Australia",
             "VehicleType": 1,
             "VehicleName": "LKW, mit Anhänger (bis 40 t)",
-            "VehicleNumber": null,
+            "VehicleNumber": "",
             "ShipmentStartTime": "2019-11-12T12:15:41.834Z",
             "ShipmentEndTime": "2019-11-12T12:15:41.834Z",
             "ShipmentNumber": "00-Berkshire HathawayBerkshire Hathaway",
