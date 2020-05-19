@@ -1,4 +1,5 @@
-{"Shipments": [
+{
+        "Shipments": [
         {
             "ItemId": "6a143457-844b-4e97-86dd-0cbd4cf3a6d2",
             "ProjectId": "ded0af8d-527f-46a5-a0b2-4b74ca9d1835",
@@ -96,5 +97,12 @@
             "ShipmentMaterials": null,
             "UnloadDuration": "20 mins"
         }
-    ]
+    ],
+        "Locations" : [
+                {
+                        "ItemId": "049178e8-0062-4d90-b487-d627cbf75152",
+                        "Latitude": 23.8103,
+                        "Longitude": 90.4125
+                }
+        ]
 }
